@@ -1,7 +1,7 @@
 Audio Multi Filter
 ==================
 
-Drawings and PCB (c) 2027 Andrew Martin, acramonics
+Drawings and PCB (c) 2026 Andrew Martin, acramonics
 ---------------------------------------------------
 
 This is an implementation of Jake Rothman's **Audio Multi Filter**
