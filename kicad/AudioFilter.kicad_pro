@@ -598,7 +598,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./AudioFilter_V0.1_gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
